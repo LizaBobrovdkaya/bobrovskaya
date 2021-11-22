@@ -1,0 +1,48 @@
+#canvas {
+    border: 1px solid black;
+}
+
+.canvas {
+	margin: 0 auto;
+	width: 900px;
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-image: linear-gradient(270deg, #31fa81 0%, #a939ff 100%);
+}
+
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-family: Arial;
+	font-size: 30px;
+	font-weight: 700;
+	color: white;
+}
+
+.control {
+	width: 900px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn {
+	font-size: 30px;
+}
+
+.description {
+	width: 900px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	font-family: Arial;
+	font-size: 30px;
+	color: white;
+}
